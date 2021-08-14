@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhivakar1620
+- 👋 Hi, I’m divakar
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning mogodb & opencv
 - 💞️ I’m looking to collaborate on image processing 
